@@ -1,4 +1,4 @@
-# long-read-hifi-assembly
+# long_read_hifi_assembly_pangraphs
 A complete assembly workflow for the long read involving the hifi reads for the genome assembly and scaffolding to the chromosome scale. Adding the complete support from the long reads assembly to the chromosome scale assmeblies for the genomes and making them suitable for the graph assembly and pangenomes
 
 Gaurav Sablok \
